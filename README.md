@@ -1,2 +1,2 @@
-# e-commerce-clone
+# fb-clone
 React.js - Clever Programmer
